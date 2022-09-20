@@ -6,4 +6,4 @@
 algoritm.drawio
 algoritm.jpg
 Код:
-program_massiv
+solution\program
